@@ -1,7 +1,7 @@
 ---
 title: 한메일 바로가기 https//hanmail.net 편리함
 author: bing
-date: 2025-01-25
+date: 2025-01-30
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
